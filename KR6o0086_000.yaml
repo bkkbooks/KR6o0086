@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6o0086/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 釋摩訶衍論疏
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X45/X45n0771.xml
+    old_id: X45n0771
+hash: sha256:62225f644d09d0910596594c544f018bcada1c5deeabf0f41321cefec558da10

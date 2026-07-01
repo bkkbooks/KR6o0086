@@ -1,0 +1,90 @@
+canonical_identifier: bkk:krp/KR6o0086/v1
+canonical_location: https://kanripo.org/bkk/KR6o0086/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 釋摩訶衍論疏
+  identifiers:
+    alt_id:
+    - X45n0771
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X45/X45n0771.xml
+    old_id: X45n0771
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6o0086_000.yaml, hash: 'sha256:62225f644d09d0910596594c544f018bcada1c5deeabf0f41321cefec558da10'}
+  - {seq: 2, filename: KR6o0086_002.yaml, hash: 'sha256:261794b40879325aad5845d777ddcecba3a63ae29a6bf5af0847f7f43b289eeb'}
+  - {seq: 3, filename: KR6o0086_003.yaml, hash: 'sha256:49a99970c9ccb1ae5ebb701622466e00de402456da99cfb43a445761cab05f4e'}
+  - {seq: 4, filename: KR6o0086_004.yaml, hash: 'sha256:8e740f3ea8897c2d0596da19f6831ebfcdb0bfb4cf38bf177be0fa6602386796'}
+  - {seq: 5, filename: KR6o0086_005.yaml, hash: 'sha256:11ed23c0cc7aa9cf511b6fbdcd7d5457b269b43e433cd434f2f6f1eb4af74228'}
+  markers:
+  - {seq: 2, role: markers, filename: assets/KR6o0086_002.markers.yaml, hash: 'sha256:2e6686146ebbc2b57f10d1b5af90dd6f4cd96f74600765d4771ac4960f0a6c22'}
+  - {seq: 3, role: markers, filename: assets/KR6o0086_003.markers.yaml, hash: 'sha256:4046fc0606552061e06629c9dd29a7702b7333bc84c162d102cecda3f69d7679'}
+  - {seq: 4, role: markers, filename: assets/KR6o0086_004.markers.yaml, hash: 'sha256:6204213bff2209636b070ba79c4566103553c69d7f25b443ae56ae9bf5f13ade'}
+  - {seq: 5, role: markers, filename: assets/KR6o0086_005.markers.yaml, hash: 'sha256:c88dde32f6e839b98786fe3373d070a155de0fdb8193a1c25029621fecb00d3b'}
+table_of_contents:
+- ref:
+    seq: 2
+    marker_id: KR6o0086_X_1a-juan-start
+    span:
+    - body
+    - 0
+    - 16319
+  label: '次第屬當釋本論文刪補三卷別行
+
+    疏上'
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6o0086_X_1b-juan-start
+    span:
+    - body
+    - 0
+    - 11120
+  label: 釋摩訶衍論疏卷上末
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6o0086_X_1b-mulu-1
+    span:
+    - body
+    - 11120
+    - 11120
+  label: 下本
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6o0086_X_2a-juan-start
+    span:
+    - body
+    - 0
+    - 16698
+  label: 釋摩訶衍論疏卷下本
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6o0086_X_2b-juan-start
+    span:
+    - body
+    - 0
+    - 13096
+  label: 釋摩訶衍論疏下末
+  type: juan
+  level: 1
+hash: sha256:2729f88a6fccfcb4e5698a5717269a1f067b69c7554b5b84ea6156a376b38223
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
